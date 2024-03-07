@@ -1,0 +1,11 @@
+C:\Users\kacpe\source\repos\listview task\bin\Debug\listview task.exe.config
+C:\Users\kacpe\source\repos\listview task\bin\Debug\listview task.exe
+C:\Users\kacpe\source\repos\listview task\bin\Debug\listview task.pdb
+C:\Users\kacpe\source\repos\listview task\obj\Debug\listview task.csproj.AssemblyReference.cache
+C:\Users\kacpe\source\repos\listview task\obj\Debug\listview task.csproj.SuggestedBindingRedirects.cache
+C:\Users\kacpe\source\repos\listview task\obj\Debug\listview_task.Form1.resources
+C:\Users\kacpe\source\repos\listview task\obj\Debug\listview_task.Properties.Resources.resources
+C:\Users\kacpe\source\repos\listview task\obj\Debug\listview task.csproj.GenerateResource.cache
+C:\Users\kacpe\source\repos\listview task\obj\Debug\listview task.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\listview task\obj\Debug\listview task.exe
+C:\Users\kacpe\source\repos\listview task\obj\Debug\listview task.pdb
