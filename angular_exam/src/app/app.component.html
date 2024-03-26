@@ -1,0 +1,8 @@
+<div id="mainContainer">
+  <div id="">
+    <app-header></app-header>
+    <app-news-list [newsList]="news" (itemSelected)="onItemSelected($event)"></app-news-list>
+    <app-news-details [activeItem]="selectedItem"></app-news-details>
+    <app-footer></app-footer>
+  </div>
+</div>

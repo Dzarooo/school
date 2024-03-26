@@ -1,0 +1,16 @@
+<div class="h-[400px] mx-5 border-r-solid border-r-[rgb(200,200,200)] border-r-[1px]">
+    <div *ngIf="selectedBook !== undefined">
+        <div class="mb-2">
+            <p class="text-[rgb(150,150,150)]">Author</p>
+            <p>{{ selectedBook.author }}</p>
+        </div>
+        <div class="mb-2">
+            <p class="text-[rgb(150,150,150)]">Year of publish</p>
+            <p>{{ selectedBook.year_of_publish }}</p>
+        </div>
+        <div>
+            <p class="text-[rgb(150,150,150)]">Description</p>
+            <p>{{ selectedBook.description }}</p>
+        </div>
+    </div>
+</div>

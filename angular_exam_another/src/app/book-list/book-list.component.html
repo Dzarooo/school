@@ -1,0 +1,6 @@
+<div class="flex gap-8 overflow-x-auto border-t-solid border-t-[rgb(200,200,200)] border-t-[1px] mt-2 pt-2">
+    <div *ngFor="let item of bookList" (click)="itemClicked(item)" class="flex flex-col items-center text-center cursor-pointer">
+        <p class="text-center">{{ item.author }}</p>
+        <p class="text-center">{{ item.year_of_publish }}</p>
+    </div>
+</div>

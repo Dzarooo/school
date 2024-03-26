@@ -1,0 +1,10 @@
+<div class="w-[100vw] h-[100vh] flex justify-center items-center bg-[rgb(20,20,50)] text-[rgb(200,200,200)]">
+  <div class="w-[500px] h-fit border-solid border-[1px] border-[black] rounded-xl p-5" style="box-shadow: 0px 0px 10px 2px black;">
+    <app-header></app-header>
+    <div class="flex">
+      <app-book-details [selectedBook]="selectedBook" class="flex-[70%]"></app-book-details>
+      <app-advertisement class="flex-[30%]"></app-advertisement>
+    </div>
+    <app-book-list [bookList]="bookList" (itemSelected)="onItemSelected($event)"></app-book-list>
+  </div>
+</div>
